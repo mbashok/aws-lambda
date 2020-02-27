@@ -1,0 +1,24 @@
+{
+  "name": "aws-lambda",
+  "version": "1.0.0",
+  "description": "A demo of AWS lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbashok/aws-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbashok/aws-lambda/issues"
+  },
+  "homepage": "https://github.com/mbashok/aws-lambda#readme",
+  "dependencies": {
+    "jimp": "^0.9.3",
+    "uuid": "^7.0.0"
+  }
+}
